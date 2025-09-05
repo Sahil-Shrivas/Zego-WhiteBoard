@@ -1,12 +1,31 @@
-# React + Vite
+# 🖊️ ZEGOCLOUD Whiteboard using React  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Description  
+This project is a **real-time collaborative whiteboard** built with **React** and powered by **ZEGOCLOUD**. It enables multiple users to interact on a shared canvas, making it useful for **online teaching, brainstorming, remote collaboration, and team discussions**.  
 
-Currently, two official plugins are available:
+By leveraging ZEGOCLOUD’s **real-time communication (RTC) SDK**, the whiteboard ensures smooth and low-latency drawing, allowing users to **draw, write, and share ideas instantly** across devices.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features  
+- ✏️ Real-time drawing and synchronization  
+- 👥 Multi-user collaboration  
+- 📱 Responsive UI for different devices  
+- ⚡ Powered by ZEGOCLOUD RTC SDK for seamless performance  
+- 🎨 Easy-to-use interface for teaching and brainstorming  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** React.js  
+- **SDK:** ZEGOCLOUD RTC SDK  
+- **Styling:** CSS / Tailwind (if used)  
+
+---
+
+## 📂 Installation & Setup  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Sahil-Shrivas/zegocloud-whiteboard-react.git
+   cd zegocloud-whiteboard-react
